@@ -1,7 +1,7 @@
 # The main page
 
 
-<img src='public/todo.png'/>
+<img src='client/public/todo.png'/>
 
 
 
